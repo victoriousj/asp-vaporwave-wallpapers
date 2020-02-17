@@ -1,0 +1,10 @@
+B:\Documents\Projects\C#\asp-vaporwave-wallpapers\bin\Debug\netcoreapp3.1\asp-vaporwave-wallpapers.exe
+B:\Documents\Projects\C#\asp-vaporwave-wallpapers\bin\Debug\netcoreapp3.1\asp-vaporwave-wallpapers.deps.json
+B:\Documents\Projects\C#\asp-vaporwave-wallpapers\bin\Debug\netcoreapp3.1\asp-vaporwave-wallpapers.runtimeconfig.json
+B:\Documents\Projects\C#\asp-vaporwave-wallpapers\bin\Debug\netcoreapp3.1\asp-vaporwave-wallpapers.runtimeconfig.dev.json
+B:\Documents\Projects\C#\asp-vaporwave-wallpapers\bin\Debug\netcoreapp3.1\asp-vaporwave-wallpapers.dll
+B:\Documents\Projects\C#\asp-vaporwave-wallpapers\bin\Debug\netcoreapp3.1\asp-vaporwave-wallpapers.pdb
+B:\Documents\Projects\C#\asp-vaporwave-wallpapers\obj\Debug\netcoreapp3.1\asp-vaporwave-wallpapers.AssemblyInfoInputs.cache
+B:\Documents\Projects\C#\asp-vaporwave-wallpapers\obj\Debug\netcoreapp3.1\asp-vaporwave-wallpapers.AssemblyInfo.cs
+B:\Documents\Projects\C#\asp-vaporwave-wallpapers\obj\Debug\netcoreapp3.1\asp-vaporwave-wallpapers.dll
+B:\Documents\Projects\C#\asp-vaporwave-wallpapers\obj\Debug\netcoreapp3.1\asp-vaporwave-wallpapers.pdb
