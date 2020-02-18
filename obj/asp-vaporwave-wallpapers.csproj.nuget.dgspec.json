@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "B:\\Documents\\Projects\\C#\\asp-vaporwave-wallpapers\\asp-vaporwave-wallpapers.csproj": {}
+    "C:\\Users\\vjohnson\\Documents\\asp-vaporwave-wallpapers\\asp-vaporwave-wallpapers.csproj": {}
   },
   "projects": {
-    "B:\\Documents\\Projects\\C#\\asp-vaporwave-wallpapers\\asp-vaporwave-wallpapers.csproj": {
+    "C:\\Users\\vjohnson\\Documents\\asp-vaporwave-wallpapers\\asp-vaporwave-wallpapers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "B:\\Documents\\Projects\\C#\\asp-vaporwave-wallpapers\\asp-vaporwave-wallpapers.csproj",
+        "projectUniqueName": "C:\\Users\\vjohnson\\Documents\\asp-vaporwave-wallpapers\\asp-vaporwave-wallpapers.csproj",
         "projectName": "asp-vaporwave-wallpapers",
-        "projectPath": "B:\\Documents\\Projects\\C#\\asp-vaporwave-wallpapers\\asp-vaporwave-wallpapers.csproj",
-        "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-        "outputPath": "B:\\Documents\\Projects\\C#\\asp-vaporwave-wallpapers\\obj\\",
+        "projectPath": "C:\\Users\\vjohnson\\Documents\\asp-vaporwave-wallpapers\\asp-vaporwave-wallpapers.csproj",
+        "packagesPath": "C:\\Users\\vjohnson\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vjohnson\\Documents\\asp-vaporwave-wallpapers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vjohnson\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
